@@ -55,7 +55,7 @@ AGB is currently in its early stage and will support more functions soon.
 - *ETH:*  `0xa26414763ae2dd615bacdde142b5801f6a95e6e4`
 - _Star Android Great Bridge_
 
-## Concat
+## Contact
 
 Email: goldenduo@qq.com
 
