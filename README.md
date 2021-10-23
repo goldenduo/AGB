@@ -27,7 +27,7 @@ The Android application requires at least API 23 (Android 6.0).
 
 ## Run (simple)
 
-1、Turn on [developer options](https://github.com/goldenduo/AGB/blob/main/developer_options.md) in the settings and
+1、Turn on [USB debugging](https://github.com/goldenduo/AGB/blob/main/developer_options.md) in the settings and
 connect USB
 
 2、Run AGB and click the button on the right
