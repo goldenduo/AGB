@@ -27,7 +27,7 @@ The Android application requires at least API 23 (Android 6.0).
 
 ## Run (simple)
 
-1、Turn on [developer options](https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/) in the settings and
+1、Turn on [developer options](https://github.com/goldenduo/AGB/blob/main/developer_options.md) in the settings and
 connect USB
 
 2、Run AGB and click the button on the right
@@ -44,16 +44,15 @@ connect USB
 - [Linux](https://selfshare.shenqikeji.top/AGB/linux/agb.zip)
 
 
-## Stage
+## Status
 
-AGB is currently in its early stage and will support more functions soon.
+AGB is constantly adding features.
 
 ## Donate
 
+Star AGB to make it go further
 
-- *BTC:*  `1QGQKfCMEsZVsXuYHLutE1g9t3rf9o8o5F`
-- *ETH:*  `0xa26414763ae2dd615bacdde142b5801f6a95e6e4`
-- _Star Android Great Bridge_
+![request](R/please.gif)
 
 ## Contact
 
