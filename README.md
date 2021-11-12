@@ -66,6 +66,8 @@ Star AGB to make it go further
 ## Contact
 
 Email: goldenduo@qq.com
-我想另外做一个Android自动化测试的软件，寻找一名编程伙伴，有Kotlin或者Python基础并愿意花时间，有意者请联系我。
 
+我想另外做一个Android自动化测试的软件，寻找一名编程伙伴，有Kotlin基础并愿意花时间，有意者请联系我。
+
+I want to make another software for Android automatic test, and find a programming partner who has kotlin foundation and is willing to spend time. Please contact me if you are interested.
 
