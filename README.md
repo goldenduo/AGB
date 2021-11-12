@@ -39,6 +39,15 @@ connect USB
 ![request](R/request.jpg)
 
 ## Download
+
+From GitHub：
+
+- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb.zip)
+- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb.zip)
+- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb.zip)
+
+From CDN：
+
 - [Windows](https://selfshare.shenqikeji.top/AGB/windows/agb.zip)
 - [MacOS](https://selfshare.shenqikeji.top/AGB/macos/agb.zip)
 - [Linux](https://selfshare.shenqikeji.top/AGB/linux/agb.zip)
@@ -57,5 +66,6 @@ Star AGB to make it go further
 ## Contact
 
 Email: goldenduo@qq.com
+我想另外做一个Android自动化测试的软件，寻找一名编程伙伴，有Kotlin或者Python基础并愿意花时间，有意者请联系我。
 
 
