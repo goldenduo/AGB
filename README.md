@@ -58,15 +58,13 @@ connect USB
 
 2、Run AGB and click the button on the right
 
-![guide](R/guide.gif)
+![guide](https://cdn.jsdelivr.net/gh/goldenduo/AGB/R/guide.gif)
 
 3、The very first start should open a popup to request permission
 
-![request](R/request.jpg)
+![request](https://cdn.jsdelivr.net/gh/goldenduo/AGB/R/request.jpg)
 
 ## Download
-
-### Version 2 Pre-release
 
 From GitHub：
 
@@ -80,21 +78,6 @@ From CDN：
 - [MacOS](https://selfshare.shenqikeji.top/AGB/macos/agb2.zip)
 - [Linux](https://selfshare.shenqikeji.top/AGB/linux/agb2.zip)
 
-### Version 1
-
-From GitHub：
-
-- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb.zip)
-- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb.zip)
-- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb.zip)
-
-From CDN：
-
-- [Windows](https://selfshare.shenqikeji.top/AGB/windows/agb.zip)
-- [MacOS](https://selfshare.shenqikeji.top/AGB/macos/agb.zip)
-- [Linux](https://selfshare.shenqikeji.top/AGB/linux/agb.zip)
-
-
 ## Status
 
 AGB is constantly adding features.
@@ -103,7 +86,7 @@ AGB is constantly adding features.
 
 Star AGB to make it go further
 
-![request](R/please.gif)
+![request](https://cdn.jsdelivr.net/gh/goldenduo/AGB/R/please.gif)
 
 ## Contact
 
