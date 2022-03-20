@@ -84,9 +84,17 @@ AGB is constantly adding features.
 
 ## Donate
 
-Star AGB to make it go further
+- Star AGB to make it go further
 
 ![request](https://cdn.jsdelivr.net/gh/goldenduo/AGB/R/please.gif)
+
+- Donation List
+
+  - @mike 188yuan
+
+- Thanks for donating! 
+
+<img src="https://cdn.jsdelivr.net/gh/goldenduo/AGB/R/alipay.jpg" width="270" height="420">
 
 ## Contact
 
