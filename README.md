@@ -5,6 +5,8 @@
 
 <h4 align="center">A bridge for Android.</h4>
 
+# There will be major version updates before August 15. Please provide more valuable comments and upgrade at that time.
+
 ## Introduction
 
 AGB is short for Android Great Bridge.It does not require any _root_ access neither on the device nor on the computer. 
