@@ -5,7 +5,7 @@
 
 <h4 align="center">A bridge for Android.</h4>
 
-# There will be major version updates before August 15. Please provide more valuable comments and upgrade at that time.
+# There will be major version updates before August 15, 2022. Please provide more valuable comments.
 
 ## Introduction
 
