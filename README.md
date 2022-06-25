@@ -70,9 +70,9 @@ connect USB
 
 From GitHub：
 
-- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb2.zip)
-- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb2.zip)
-- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb2.zip)
+- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb3.zip)
+- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb3.zip)
+- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb3.zip)
 
 From CDN：
 
