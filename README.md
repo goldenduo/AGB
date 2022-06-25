@@ -5,7 +5,7 @@
 
 <h4 align="center">A bridge for Android.</h4>
 
-# There will be major version updates before August 15, 2022. Please provide more valuable comments.
+* [中文文档](https://github.com/goldenduo/AGB/blob/main/README_CN.md)
 
 ## Introduction
 
