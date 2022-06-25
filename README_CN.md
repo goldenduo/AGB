@@ -40,7 +40,7 @@ Android 应用程序至少需要 API 23 (Android 6.0)。
 
 ## 运行（简单）
 
-1、打开设置中的【USB调试】（https://github.com/goldenduo/AGB/blob/main/developer_options.md），
+1、打开设置中的[USB调试](https://github.com/goldenduo/AGB/blob/main/developer_options.md)
 连接 USB
 
 2、运行AGB并点击右侧按钮
