@@ -76,9 +76,9 @@ From GitHub：
 
 From CDN：
 
-- [Windows](https://selfshare.shenqikeji.top/AGB/windows/agb4.zip)
-- [MacOS](https://selfshare.shenqikeji.top/AGB/macos/agb4.zip)
-- [Linux](https://selfshare.shenqikeji.top/AGB/linux/agb4.zip)
+- [Windows](https://selfshare.flyingcat.top/AGB/windows/agb4.zip)
+- [MacOS](https://selfshare.flyingcat.top/AGB/macos/agb4.zip)
+- [Linux](https://selfshare.flyingcat.top/AGB/linux/agb4.zip)
 
 ## Status
 
