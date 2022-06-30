@@ -55,15 +55,15 @@ Android 应用程序至少需要 API 23 (Android 6.0)。
 
 来自 GitHub：
 
-- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb3.zip)
-- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb3.zip)
-- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb3.zip)
+- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb4.zip)
+- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb4.zip)
+- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb4.zip)
 
 来自 CDN：
 
-- [Windows](https://selfshare.shenqikeji.top/AGB/windows/agb3.zip)
-- [MacOS](https://selfshare.shenqikeji.top/AGB/macos/agb3.zip)
-- [Linux](https://selfshare.shenqikeji.top/AGB/linux/agb3.zip)
+- [Windows](https://selfshare.shenqikeji.top/AGB/windows/agb4.zip)
+- [MacOS](https://selfshare.shenqikeji.top/AGB/macos/agb4.zip)
+- [Linux](https://selfshare.shenqikeji.top/AGB/linux/agb4.zip)
 
 ## 进度
 
