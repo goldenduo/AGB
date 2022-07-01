@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://selfshare.shenqikeji.top/AGB/icon.png" alt="AGB" width="200">
+  <img src="https://selfshare.flyingcat.top/AGB/icon.png" alt="AGB" width="200">
   <br>AGB<br>
 </h1>
 
