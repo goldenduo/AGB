@@ -65,6 +65,9 @@ Android 应用程序至少需要 API 23 (Android 6.0)。
 - [MacOS](https://selfshare.flyingcat.top/AGB/macos/agb4.zip)
 - [Linux](https://selfshare.flyingcat.top/AGB/linux/agb4.zip)
 
+对于MacOS用户，由于作者没有资金购买MacOS开发者账号，如果遇到下面问题，可以通过以下方式使用
+* [macos解决"XX"已损坏，无法打开。 您应该将它移到废纸篓](https://www.jianshu.com/p/a792ec264790)
+
 ## 进度
 
 AGB 不断添加功能。
