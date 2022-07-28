@@ -70,15 +70,15 @@ connect USB
 
 From GitHub：
 
-- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb4.zip)
-- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb4.zip)
-- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb4.zip)
+- [Windows](https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
+- [MacOS](https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
+- [Linux]
 
 From CDN：
 
-- [Windows](https://selfshare.flyingcat.top/AGB/windows/agb4.zip)
-- [MacOS](https://selfshare.flyingcat.top/AGB/macos/agb4.zip)
-- [Linux](https://selfshare.flyingcat.top/AGB/linux/agb4.zip)
+- [Windows](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
+- [MacOS](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
+- [Linux]
 
 ## Status
 
