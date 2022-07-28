@@ -55,15 +55,15 @@ Android 应用程序至少需要 API 23 (Android 6.0)。
 
 来自 GitHub：
 
-- [Windows](https://github.com/goldenduo/SelfShare/raw/main/AGB/windows/agb4.zip)
-- [MacOS](https://github.com/goldenduo/SelfShare/raw/main/AGB/macos/agb4.zip)
-- [Linux](https://github.com/goldenduo/SelfShare/raw/main/AGB/linux/agb4.zip)
+- [Windows](https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
+- [MacOS](https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
+- [Linux]
 
 来自 CDN：
 
-- [Windows](https://selfshare.flyingcat.top/AGB/windows/agb4.zip)
-- [MacOS](https://selfshare.flyingcat.top/AGB/macos/agb4.zip)
-- [Linux](https://selfshare.flyingcat.top/AGB/linux/agb4.zip)
+- [Windows](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
+- [MacOS](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
+- [Linux]
 
 对于MacOS用户，由于作者没有资金购买MacOS开发者账号，如果遇到下面问题，可以通过以下方式使用
 * [macos解决"XX"已损坏，无法打开。 您应该将它移到废纸篓](https://www.jianshu.com/p/a792ec264790)
