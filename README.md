@@ -93,6 +93,7 @@ AGB is constantly adding features.
 - Donation List
 
   - @mike 188yuan
+  - @**印 20yuan
 
 - Thanks for donating! 
 
