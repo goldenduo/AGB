@@ -76,8 +76,8 @@ From GitHub：
 
 From CDN：
 
-- [Windows](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
-- [MacOS](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
+- [Windows](https://share.xiening.top/https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
+- [MacOS](https://share.xiening.top/https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
 - [Linux]
 
 ## Status
