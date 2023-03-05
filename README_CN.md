@@ -61,8 +61,8 @@ Android 应用程序至少需要 API 23 (Android 6.0)。
 
 来自 CDN：
 
-- [Windows](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
-- [MacOS](https://ghproxy.com/https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
+- [Windows](https://share.xiening.top/https://github.com/goldenduo/AGB/releases/latest/download/agb_win.zip)
+- [MacOS](https://share.xiening.top/https://github.com/goldenduo/AGB/releases/latest/download/agb_macos.zip)
 - [Linux]
 
 对于MacOS用户，由于作者没有资金购买MacOS开发者账号，如果遇到下面问题，可以通过以下方式使用
