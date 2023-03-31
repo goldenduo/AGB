@@ -13,6 +13,7 @@ AGB is short for Android Great Bridge.It does not require any _root_ access neit
 * It provides **reverse tethering** over `adb` for Android: it allows devices to use the internet connection of the computer they are plugged on. 
 * It provides **display and control** of Android devices connected via USB (or over TCP/IP).
 * It **forwards audio** from an Android 10 device to the computer. 
+*Support for **F2 boss key** and **transparency settings**.
 
 ## Features
 
