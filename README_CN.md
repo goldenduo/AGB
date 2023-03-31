@@ -12,6 +12,7 @@ AGB 是 Android Great Bridge 的缩写。它不需要任何 _root_ 访问权限�
 * 它通过“adb”为Android 提供**反向网络共享**：它允许设备使用它们所插入的计算机的互联网连接。
 * 它提供通过 USB（或通过 TCP/IP）连接的 Android 设备的**显示和控制**。
 * 它将**音频**从 Android 10 设备转发到计算机。
+* 它支持F2老板键与透明度设置。
 
 ## 三大功能
 
@@ -33,6 +34,7 @@ AGB 是 Android Great Bridge 的缩写。它不需要任何 _root_ 访问权限�
 ### 3. 转发音频
 
 由于安卓系统限制，支持Android 10以上部分APP
+
 
 ## 要求
 
