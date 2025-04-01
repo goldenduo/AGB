@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src="https://selfshare.flyingcat.top/AGB/icon.png" alt="AGB" width="200">
+  <img src="https://agb.126111.xyz/landing.jpg" alt="AGB" width="200">
   <br>AGB<br>
 </h1>
 
 <h4 align="center">A bridge for Android.</h4>
 
 * [中文文档](https://github.com/goldenduo/AGB/blob/main/README_CN.md)
-
+* [Main page](https://agb.126111.xyz)
+  
 ## Introduction
 
 AGB is short for Android Great Bridge.It does not require any _root_ access neither on the device nor on the computer. 
