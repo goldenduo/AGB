@@ -1,9 +1,11 @@
 <h1 align="center">
-  <img src="https://selfshare.flyingcat.top/AGB/icon.png" alt="AGB" width="200">
+  <img src="https://agb.126111.xyz/landing.jpg" alt="AGB" width="200">
   <br>AGB<br>
 </h1>
 
 <h4 align="center">A bridge for Android.</h4>
+
+* [主页](https://agb.126111.xyz)
 
 
 ## 介绍
