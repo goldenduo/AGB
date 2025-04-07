@@ -24,7 +24,8 @@ AGB 是 Android Great Bridge 的缩写。它不需要任何 _root_ 访问权限�
 - **GUI支持：** 美观易用的界面，告别命令行
 - **多台设备：** 可同时连接多台设备
 - **多操作系统：** 它适用于 _GNU/Linux_、_Windows_ 和 _Mac OS_。
-
+- **支持代理：** Socks5/Socks4/HTTP代理均支持
+- 
 ### 2. 显示和控制
 
 - **lightness**：原生，仅显示设备屏幕
