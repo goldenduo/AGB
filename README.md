@@ -24,6 +24,7 @@ AGB is short for Android Great Bridge.It does not require any _root_ access neit
 - **GUI support:** Beautiful and easy-to-use interface,bid farewell to the command line
 - **Multiple devices:** Multiple devices can be connected at the same time
 - **Multiple OS:** It works on _GNU/Linux_, _Windows_ and _Mac OS_.
+- **Proxy Support:** Socks5/Socks4/HTTP proxy
 
 ### 2. Display and Control
 
