@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://agb.126111.xyz/landing.jpg" alt="AGB" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/goldenduo/AGB/R/landing.jpg" alt="AGB" width="200">
   <br>AGB<br>
 </h1>
 
